@@ -4,9 +4,16 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 var ppl = {
-    "jdoe": {},
+    "ngurazada": {},
     "kgurazada": {},
-    "flastname": {}
+    "ddastur": {}
+"awieland": {},
+"sjayaprakash": {},
+	"bguansing": {},
+		"vjanardhanan": {},
+			"mkarmarkar": {},
+				"mmcintyre": {},
+					"cchu": {}
 };
 
 // init-passwd
