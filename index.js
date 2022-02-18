@@ -6,7 +6,7 @@ app.use(express.urlencoded({ extended: true }));
 var ppl = {
     "ngurazada": {},
     "kgurazada": {},
-    "ddastur": {}
+    "ddastur": {},
 "awieland": {},
 "sjayaprakash": {},
 	"bguansing": {},
