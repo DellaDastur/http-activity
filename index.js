@@ -84,7 +84,7 @@ app.post('/change-password', function (req, res) {
     res.sendStatus(200);
 });
 
-const port = 2000;
+const port = process.env.port || 2000;
 app.listen(port, function () {
     console.log("listening on " + port);
 });
